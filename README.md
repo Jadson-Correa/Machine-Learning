@@ -112,7 +112,7 @@ rattle::fancyRpartPlot(
   tree.fit$finalModel
 )
 ```
-
+![](https://github.com/Jadson-Correa/Machine-Learning/blob/master/git1.PNG)
 
 ```{r}
 # Predictions with rpart model
@@ -167,7 +167,7 @@ rf.fit = randomForest(
 # Plot the Random Forests model
 plot(rf.fit)
 ```
-
+![](https://github.com/Jadson-Correa/Machine-Learning/blob/master/git2.PNG)
 
 ```{r}
 # Predict with random forest model
